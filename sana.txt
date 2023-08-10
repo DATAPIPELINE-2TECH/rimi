@@ -1,0 +1,3 @@
+#!Third file
+Hello!
+They succeed, because they think they can.
